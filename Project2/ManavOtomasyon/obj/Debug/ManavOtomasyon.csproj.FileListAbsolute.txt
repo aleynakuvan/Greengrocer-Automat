@@ -1,0 +1,8 @@
+C:\Users\aleyn\OneDrive\Masaüstü\C#\Project2\ManavOtomasyon\bin\Debug\ManavOtomasyon.exe.config
+C:\Users\aleyn\OneDrive\Masaüstü\C#\Project2\ManavOtomasyon\bin\Debug\ManavOtomasyon.exe
+C:\Users\aleyn\OneDrive\Masaüstü\C#\Project2\ManavOtomasyon\bin\Debug\ManavOtomasyon.pdb
+C:\Users\aleyn\OneDrive\Masaüstü\C#\Project2\ManavOtomasyon\obj\Debug\ManavOtomasyon.csproj.AssemblyReference.cache
+C:\Users\aleyn\OneDrive\Masaüstü\C#\Project2\ManavOtomasyon\obj\Debug\ManavOtomasyon.csproj.SuggestedBindingRedirects.cache
+C:\Users\aleyn\OneDrive\Masaüstü\C#\Project2\ManavOtomasyon\obj\Debug\ManavOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\aleyn\OneDrive\Masaüstü\C#\Project2\ManavOtomasyon\obj\Debug\ManavOtomasyon.exe
+C:\Users\aleyn\OneDrive\Masaüstü\C#\Project2\ManavOtomasyon\obj\Debug\ManavOtomasyon.pdb
